@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://siqueirafelipe.github.io/alves-pinheiros/sitemap.xml
